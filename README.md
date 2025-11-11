@@ -6,3 +6,4 @@ A repository filled with my Java Notes.
     * [Java file](src/firstPackage/Dog.java)
 * [Data types in Java: What, Categories, Primitive/Non-Primitive Data Types, Default Values](Notes/004.DataTypes.md)
     * [Java file](src/firstPackage/Dog.java)
+* [Variables: What is it?, Types, How to access it?, Naming Conventions](Notes/005.Variables.md)

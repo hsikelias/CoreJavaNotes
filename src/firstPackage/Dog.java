@@ -8,7 +8,8 @@ public class Dog {
         System.out.println("Hello World");
         // To access the variable we created we need to create objects.
         // First class name, variable name, new key word, Constructor(constructor name is class name with the ())
-        Dog dog = new Dog();  // So now we have dog holding variables of the class Dog.. with help of object we can access these variables.
+        Dog dog = new Dog();  
+        // So now we have dog holding variables of the class Dog.. with help of object we can access these variables.
         // dog.breed, dog.height, dog.weight
         System.out.println(dog.breed);
         System.out.println(Short.SIZE/8); // 16 bits or 2 bytes of information
