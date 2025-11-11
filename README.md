@@ -1,2 +1,3 @@
+A repository filled with my Java Notes. 
 ## Content:
-1. 
+* [Basic Knowledge About Java](Notes/JavaBasics.md)
