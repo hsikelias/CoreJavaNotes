@@ -23,4 +23,3 @@ public class Dog {
         System.out.println(Integer.MAX_VALUE);
     }
 }
-
