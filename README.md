@@ -15,3 +15,6 @@ A repository filled with my Java Notes.
 * [008.Operators](Notes/008.Operators.md)
     * [Java file](src/firstPackage/Operators.java)
 * [009.UserInput](Notes/009.UserInput.md)
+    * [Java file](src/firstPackage/UserInput.java)
+* [010.Conditionals](Notes/010.Conditionals.md)
+    * [Java file](src/firstPackage/Conditionals.java)
