@@ -18,3 +18,5 @@ A repository filled with my Java Notes.
     * [Java file](src/firstPackage/UserInput.java)
 * [010.Conditionals](Notes/010.Conditionals.md)
     * [Java file](src/firstPackage/Conditionals.java)
+* [011.Decision Making Statements](Notes/011.DecisionStatements.md)
+    * [Java file](src/firstPackage/Decisions.Java)
